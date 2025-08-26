@@ -114,10 +114,3 @@ This dashboard provided clear insights into:
 * Apply **machine learning models** for call success prediction.
 * Integrate data from **email/chat support** for multi-channel insights.
 * Develop a **real-time monitoring dashboard** with alerts.
-
----
-
-
-
-
-👉 Do you want me to **make this a ready-to-use `README.md` file** (so you can directly include it with your report/project folder), or just keep it as text inside the internship report?
