@@ -90,7 +90,7 @@ The analysis was supported with an interactive dashboard that visually summarize
 
 ### Dashboard Screenshot
 
-![Dashboard](0db3d2a2-aaff-4aaf-af1e-17d26af24819.png)
+![Dashboard](Dashboard.png)
 
 This dashboard provided clear insights into:
 
