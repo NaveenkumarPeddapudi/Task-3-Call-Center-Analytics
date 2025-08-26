@@ -1,11 +1,5 @@
 # Task-3-Call-Center-Analytics
-Perfect 👍 I’ll add a **Visualization Section** to your README so that the report looks more professional. I’ll reference your uploaded **dashboard image** as part of the visual insights.
 
-Here’s the updated **README.md draft** (with the new section):
-
----
-
-# 📑 Call Center Analytics – Internship Report
 
 ## 📌 Project Overview
 
